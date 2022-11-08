@@ -2,7 +2,7 @@ Feature: Wikipedia Search Functionality and verifications
 
   Background:
     Given User is on Wikipedia home page
-  @Baz
+
   Scenario: Wikipedia Search Functionality Title Verification
     #Given User is on Wikipedia home page
     When User types Steve Jobs in the wiki search box
